@@ -36,6 +36,15 @@
 .blue_anime, .red_anime, .yellow_anime, .aborted_anime {
     background: #3861b6;
 }
+
+.red_anime {
+  color: red;
+}
+
+.aborted_anime {
+  color: DarkRed;
+}
+
 .yellow {
 	color: black;
 	background: yellow;
